@@ -1,0 +1,2 @@
+# qintianshuqian_autoRun
+晴天书签软件的简易版按键精灵
