@@ -15,11 +15,8 @@ import faulthandler
 import sys
 
 qingtian_name="书签获取小工具2015.05.05  【晴天软件】"
-
-# github顶多2g, 放不下这么多，于是改成放在onedrive下面进行备份...
-
-target_dir=r"D:\OneDrive - CUHK-Shenzhen\备份地点\文档资料备份地点\All_SS_bookmarks"
-qingtian_path=r".\晴天软件_书签获取软件V0505.exe"
+target_dir=r"D:\All_SS_bookmarks"
+qingtian_path=r"C:\Program Files\Shuqian\晴天软件_书签获取软件V0505.exe"
 
 def get_hd_from_child_hds(father_hd,some_idx,expect_name):
     child_hds=[]
